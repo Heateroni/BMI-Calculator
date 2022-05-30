@@ -1,0 +1,15 @@
+C:\Users\Aiden\Desktop\BMI\bin\Debug\net6.0\BMI.exe
+C:\Users\Aiden\Desktop\BMI\bin\Debug\net6.0\BMI.deps.json
+C:\Users\Aiden\Desktop\BMI\bin\Debug\net6.0\BMI.runtimeconfig.json
+C:\Users\Aiden\Desktop\BMI\bin\Debug\net6.0\BMI.dll
+C:\Users\Aiden\Desktop\BMI\bin\Debug\net6.0\BMI.pdb
+C:\Users\Aiden\Desktop\BMI\obj\Debug\net6.0\BMI.csproj.AssemblyReference.cache
+C:\Users\Aiden\Desktop\BMI\obj\Debug\net6.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aiden\Desktop\BMI\obj\Debug\net6.0\BMI.AssemblyInfoInputs.cache
+C:\Users\Aiden\Desktop\BMI\obj\Debug\net6.0\BMI.AssemblyInfo.cs
+C:\Users\Aiden\Desktop\BMI\obj\Debug\net6.0\BMI.csproj.CoreCompileInputs.cache
+C:\Users\Aiden\Desktop\BMI\obj\Debug\net6.0\BMI.dll
+C:\Users\Aiden\Desktop\BMI\obj\Debug\net6.0\refint\BMI.dll
+C:\Users\Aiden\Desktop\BMI\obj\Debug\net6.0\BMI.pdb
+C:\Users\Aiden\Desktop\BMI\obj\Debug\net6.0\BMI.genruntimeconfig.cache
+C:\Users\Aiden\Desktop\BMI\obj\Debug\net6.0\ref\BMI.dll
